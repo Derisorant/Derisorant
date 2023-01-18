@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Derisorant.repoName)
 
-<!--
-**Derisorant/Derisorant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img align="centre" src="https://i.ibb.co/t37yTc3/images-removebg-preview.png" width="30px"> ***About me***
 
-Here are some ideas to get you started:
+<img align="right" width=350px alt="I CANT CODE HELP" src="https://i.ibb.co/WDvc8hg/ezgif-1-b556d5886f.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I am currently a Student studying IT Media Marketing and Web Design.
+Python and Shell are both programming languages I use on the majority of my personal Projects.
+I love to learn and build when it comes to projects as I get motivated to make progress.
+
+## ***🛠 What I'm working towards***
+* to be fixed
