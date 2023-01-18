@@ -16,5 +16,4 @@ I love to learn and build when it comes to projects as I get motivated to make p
 
 ## *📊 My Github Stats*
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Derisorant&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derisorant&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derisorant&layout=expanded)
