@@ -9,5 +9,7 @@ Hello! I am currently a Student studying IT Media Marketing and Web Design.
 Python and Shell are both programming languages I use on the majority of my personal Projects.
 I love to learn and build when it comes to projects as I get motivated to make progress.
 
-## ***🛠 What I'm working towards***
-* to be fixed
+## ***🛠 Languages I'm learning***
+* HTML
+* CSS
+* JavaScript
