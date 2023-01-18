@@ -1,4 +1,5 @@
 # Hi there! 👋
+![Last Commit](https://img.shields.io/github/last-commit/Derisorant/Derisorant?color=ff69b4&label=Last%20Commit)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Derisorant.repoName)
 
 ## <img align="centre" src="https://i.ibb.co/t37yTc3/images-removebg-preview.png" width="30px"> ***About me***
@@ -16,4 +17,4 @@ I love to learn and build when it comes to projects as I get motivated to make p
 
 ## *📊 My Github Stats*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derisorant&layout=expanded)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derisorant)](https://github.com/Derisorant/github-readme-stats)
