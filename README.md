@@ -17,4 +17,4 @@ I love to learn and build when it comes to projects as I get motivated to make p
 
 ## *📊 My Github Stats*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derisorant)](https://github.com/Derisorant/github-readme-stats)
+
