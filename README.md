@@ -23,6 +23,14 @@ I love to learn and build when it comes to projects as I get motivated to make p
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40" /></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></code>&nbsp;
 
+## 🗃️ Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derisorant&repo=Build&theme=github_dark)](https://github.com/Derisorant/Build)
+
+## ⌛ Activity
+
+To be fixed
+
 ---
 
 <p align="center"> 
