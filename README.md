@@ -33,8 +33,6 @@ I'll fix this some point in my life-time (Probably)
 
 ---
 
-<p align="center"> 
-		<img src ="https://img.shields.io/github/last-commit/Derisorant/derisorant?color=ff69b4&label=Last%20Commit"> 
-		<img src ="https://komarev.com/ghpvc/?username=Derisorant&label=Profile%20views&color=ff69b4&style=flat"
+<p align="center"> 		<img src ="https://komarev.com/ghpvc/?username=Derisorant&label=Profile%20views&color=ff69b4&style=flat"
 			 </p>
 	
