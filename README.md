@@ -8,8 +8,7 @@
 <h2 align="center"> About Me 📔 </h2>
 
 Hello! I am currently a Student studying IT Media Marketing and Web Design.
-Python and Shell are both programming languages I use on the majority of my personal Projects.
-I love to learn and build when it comes to projects as I get motivated to make progress.
+I mostly program in Javascript and Python. I rarely publically commit to Github, mostly just for personal projects. I really need to update this entire about me at some point because I originally made it when I had just learnt html so I apologise for the mess.
 
 
 ## 📜 Languages
