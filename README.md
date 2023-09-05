@@ -18,9 +18,7 @@ I mostly program in Javascript and Python. I rarely publically commit to Github,
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40" /></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40" /></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></code>&nbsp;
-## 📃 Learning
-
-
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>&nbsp;
 
 ## 🗃️ Projects
 
