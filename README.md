@@ -22,8 +22,6 @@ I mostly program in Javascript and Python. I rarely publically commit to Github,
 
 ## 🗃️ Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derisorant&repo=Build&theme=github_dark)](https://github.com/Derisorant/Build)
-
 ## ⌛ Activity
 
 I'll fix this some point in my life-time (Probably)
