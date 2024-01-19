@@ -1,9 +1,6 @@
 <h1 align="center"> Hi there! 👋 </h1>
 </p>
 <br>
-<p align="center">
-<img src="https://camo.githubusercontent.com/58f71a9ec5a0bf923aa3d137cb7445918fdedd8773175e42d9283f762134959b/68747470733a2f2f692e6962622e636f2f574476633868672f657a6769662d312d623535366435383836662e676966" align="center" width="350">
-	</p>
 
 <h2 align="center"> About Me 📔 </h2>
 
