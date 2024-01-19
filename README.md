@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there! 👋 </h1>
 </p>
-<br>
 
 <h2 align="center"> About Me 📔 </h2>
 
@@ -21,7 +20,9 @@ I mostly program in Javascript and Python. I rarely publically commit to Github,
 
 ## ⌛ Activity
 
-I'll fix this some point in my life-time (Probably)
+<p align="left">
+	<img src="https://lanyard.cnrad.dev/api/513078954673045534?theme=dark&hideTimestamp=true&hideProfile=true&hideDiscrim=true">
+</p>
 
 ---
 
