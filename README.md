@@ -4,7 +4,7 @@
 <h2 align="center"> About Me 📔 </h2>
 
 Hello, welcome to my GitHub page! 😊
-I am currently studying Graphic Design & Web development, and intend on using this profile as means to present my personal projects. Most my projects are privated / unlisted, so excuse if my contributions look like a desert wasteland. Any feedback is highly appreciated, and feel free to use any of my code. Although, I do recommend refining it. 😂 
+I am currently studying Graphic Design & Web development, and intend on using this profile as means to present my personal projects. Most my projects are privated / unlisted, so excuse if my contributions look like a desert wasteland. Any feedback is highly appreciated, and feel free to use any of my code. Although, I do recommend refining it beforehand. 😂 
 
 
 ## 📜 Languages
