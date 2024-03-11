@@ -3,8 +3,8 @@
 
 <h2 align="center"> About Me 📔 </h2>
 
-Hello! I am currently a Student studying IT Media Marketing and Web Design.
-I mostly program in Javascript and Python. I rarely publically commit to Github, mostly just for personal projects. I really need to update this entire about me at some point because I originally made it when I had just learnt html so I apologise for the mess.
+Hello, welcome to my GitHub page! 😊
+I am currently studying Graphic & Web design, and intend on using this profile as means to present my personal projects. Most my projects are privated / unlisted, so excuse if my contributions look like a desert wasteland. Any feedback is highly appreciated, and feel free to use any of my code. Although, I do recommend refining it. 😂 
 
 
 ## 📜 Languages
