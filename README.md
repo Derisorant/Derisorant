@@ -18,7 +18,7 @@ I am currently studying Graphic Design & Web development, and intend on using th
 
 ## 🗃️ Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derisorant&repo=Discord-Bot&bg_color=1a1c1f&text_color=ffffff&hide_border=true)](https://github.com/Derisorant/Discord-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derisorant&repo=Discord-JS-Bot&bg_color=1a1c1f&text_color=ffffff&hide_border=true)](https://github.com/Derisorant/Discord-JS-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derisorant&repo=Discord-GitTheme&bg_color=1a1c1f&text_color=ffffff&hide_border=true)](https://github.com/Derisorant/Discord-GitTheme)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derisorant&repo=derisorant.github.io&bg_color=1a1c1f&text_color=ffffff&hide_border=true)](https://github.com/Derisorant/derisorant.github.io)
 
